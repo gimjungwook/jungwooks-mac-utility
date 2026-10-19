@@ -1,0 +1,5 @@
+.build/
+build/
+.DS_Store
+Sources/MacUtility/Memes/*.gif
+Sources/MacUtility/Memes/semantic-index.json

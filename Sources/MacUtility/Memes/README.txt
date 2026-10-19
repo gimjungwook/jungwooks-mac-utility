@@ -1,0 +1,1 @@
+GIF files and semantic-index.json are shipped in the preview DMG, not tracked in this source repository. See README.md to copy them from the app bundle for local builds. Third-party GIF redistribution permission remains unverified; see THIRD-PARTY-NOTICE.md.
