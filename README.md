@@ -1,10 +1,12 @@
 # Jungwook's Mac Utility
 
-<img src="docs/media/readme-illustration.png" alt="고양이와 함께 타이핑하는 Jungwook's Mac Utility 소개 일러스트" width="900">
+<img src="docs/media/readme-illustration.png" alt="Otter Workspace의 수달 캐릭터가 노트북으로 신나게 타이핑하는 Jungwook's Mac Utility 소개 일러스트" width="900">
 
 MacBook의 노치에서 이동 모드, 팬 제어, 창 배치와 타이핑 밈을 쓰는 무료 macOS 앱입니다.
 
 **[v0.26 미리보기 다운로드](https://github.com/gimjungwook/jungwooks-mac-utility/releases/tag/v0.26-preview)** · Apple Silicon · macOS 14 이상
+
+김정욱이 직접 쓰려고 만든 앱입니다. 지금은 Memory, Docs, Meetings, Schedule이 하나의 기억으로 일하는 작업 공간 [Otter Workspace(otterworkspace.ai)](https://otterworkspace.ai)를 만들고 있습니다.
 
 ## 이렇게 보여요
 
@@ -14,7 +16,7 @@ MacBook의 노치에서 이동 모드, 팬 제어, 창 배치와 타이핑 밈�
 
 노치에 마우스를 가까이 대면 버튼이 펼쳐집니다. 실제 입력창에서 타이핑하면 화면 구석의 밈이 반응합니다. 타이핑 밈은 한 세션 동안 유지되고, 키를 누를 때마다 두 프레임이 번갈아 나옵니다. 5초간 입력 변화가 없으면 접힙니다.
 
-위 패널과 GIF는 **v0.26의 실제 앱 UI를 공개용 예시 문구로 렌더링한 화면**입니다. GIF는 키 입력에 따른 전환을 반복해 보여 줍니다. 맨 위 고양이 배너는 AI로 만든 소개 일러스트입니다. [이미지 제작 정보와 밈 출처](docs/media/README.md).
+위 패널과 GIF는 **v0.26의 실제 앱 UI를 공개용 예시 문구로 렌더링한 화면**입니다. GIF는 키 입력에 따른 전환을 반복해 보여 줍니다. 맨 위 수달 배너는 Otter Workspace의 수달 캐릭터를 바탕으로 AI로 만든 소개 일러스트입니다. [이미지 제작 정보와 밈 출처](docs/media/README.md).
 
 ## 설치
 
